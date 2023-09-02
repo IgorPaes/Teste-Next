@@ -19,7 +19,8 @@ function Contador() {
 function Home() {
     return (
     <div>
-        <h1>PAGINA INICIAL</h1>
+        <h1>PAGINA SOBRE</h1>
+        <a href="/sobre">Acessar SOBRE</a>
     </div>
     )
 }
